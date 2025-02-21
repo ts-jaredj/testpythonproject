@@ -1,2 +1,0 @@
-# testpythonproject
-test python
